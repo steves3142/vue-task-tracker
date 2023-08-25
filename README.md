@@ -1,4 +1,4 @@
 # vue-task-tracker
 
-## Project setup
+## Project Description
 This application tracks tasks using Vue JS
